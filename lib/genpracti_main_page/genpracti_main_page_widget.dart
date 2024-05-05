@@ -69,6 +69,9 @@ class _GenpractiMainPageWidgetState extends State<GenpractiMainPageWidget> {
             ),
             onPressed: () async {
               context.safePop();
+              setState(() {
+                FFAppState().showFullList = true;
+              });
             },
           ),
           title: Row(
@@ -756,7 +759,8 @@ class _GenpractiMainPageWidgetState extends State<GenpractiMainPageWidget> {
                             ),
                           ),
                           if (FFAppState().showFullList &&
-                              (_model.sortByValue != 'Reviews - Most like'))
+                              (_model.sortByValue == null ||
+                                  _model.sortByValue == ''))
                             Padding(
                               padding: const EdgeInsetsDirectional.fromSTEB(
                                   16.0, 8.0, 16.0, 8.0),

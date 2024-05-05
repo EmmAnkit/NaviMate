@@ -107,9 +107,45 @@ class _LoginWidgetState extends State<LoginWidget>
                       mainAxisAlignment: MainAxisAlignment.center,
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
+                        Align(
+                          alignment: const AlignmentDirectional(0.0, 1.0),
+                          child: Padding(
+                            padding: const EdgeInsetsDirectional.fromSTEB(
+                                0.0, 15.0, 0.0, 15.0),
+                            child: Container(
+                              width: 120.0,
+                              height: 120.0,
+                              decoration: BoxDecoration(
+                                color: FlutterFlowTheme.of(context).accent2,
+                                shape: BoxShape.circle,
+                                border: Border.all(
+                                  color: FlutterFlowTheme.of(context).secondary,
+                                  width: 2.0,
+                                ),
+                              ),
+                              child: Align(
+                                alignment: const AlignmentDirectional(0.0, 0.0),
+                                child: Padding(
+                                  padding: const EdgeInsets.all(4.0),
+                                  child: AuthUserStreamWidget(
+                                    builder: (context) => ClipRRect(
+                                      borderRadius: BorderRadius.circular(50.0),
+                                      child: Image.asset(
+                                        'assets/images/IMG_1641.png',
+                                        width: 110.0,
+                                        height: 110.0,
+                                        fit: BoxFit.cover,
+                                      ),
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                          ),
+                        ),
                         Padding(
                           padding: const EdgeInsetsDirectional.fromSTEB(
-                              0.0, 100.0, 0.0, 0.0),
+                              0.0, 50.0, 0.0, 20.0),
                           child: Container(
                             width: double.infinity,
                             decoration: BoxDecoration(
@@ -568,42 +604,46 @@ class _LoginWidgetState extends State<LoginWidget>
                   ),
                 ),
               ),
-              Container(
-                width: double.infinity,
-                height: 30.0,
-                decoration: BoxDecoration(
-                  color: FlutterFlowTheme.of(context).secondaryBackground,
-                ),
-                child: Align(
-                  alignment: const AlignmentDirectional(0.0, 0.0),
-                  child: FFButtonWidget(
-                    onPressed: () async {
-                      context.pushNamed('Emergency');
-                    },
-                    text: FFLocalizations.of(context).getText(
-                      'zxvv5qoc' /* Emergency */,
-                    ),
-                    options: FFButtonOptions(
-                      width: 230.0,
-                      height: 24.0,
-                      padding:
-                          const EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
-                      iconPadding:
-                          const EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
-                      color: FlutterFlowTheme.of(context).secondaryBackground,
-                      textStyle:
-                          FlutterFlowTheme.of(context).bodyMedium.override(
-                                fontFamily: 'Readex Pro',
-                                color: FlutterFlowTheme.of(context).error,
-                                fontSize: 10.0,
-                                letterSpacing: 0.0,
-                              ),
-                      elevation: 0.0,
-                      borderSide: BorderSide(
-                        color: FlutterFlowTheme.of(context).secondaryBackground,
-                        width: 2.0,
+              Padding(
+                padding: const EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 40.0),
+                child: Container(
+                  width: double.infinity,
+                  height: 30.0,
+                  decoration: BoxDecoration(
+                    color: FlutterFlowTheme.of(context).secondaryBackground,
+                  ),
+                  child: Align(
+                    alignment: const AlignmentDirectional(0.0, 0.0),
+                    child: FFButtonWidget(
+                      onPressed: () async {
+                        context.pushNamed('Emergency');
+                      },
+                      text: FFLocalizations.of(context).getText(
+                        'zxvv5qoc' /* Emergency */,
                       ),
-                      borderRadius: BorderRadius.circular(12.0),
+                      options: FFButtonOptions(
+                        width: 230.0,
+                        height: 24.0,
+                        padding:
+                            const EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
+                        iconPadding:
+                            const EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
+                        color: FlutterFlowTheme.of(context).secondaryBackground,
+                        textStyle:
+                            FlutterFlowTheme.of(context).bodyMedium.override(
+                                  fontFamily: 'Readex Pro',
+                                  color: FlutterFlowTheme.of(context).error,
+                                  fontSize: 10.0,
+                                  letterSpacing: 0.0,
+                                ),
+                        elevation: 0.0,
+                        borderSide: BorderSide(
+                          color:
+                              FlutterFlowTheme.of(context).secondaryBackground,
+                          width: 2.0,
+                        ),
+                        borderRadius: BorderRadius.circular(12.0),
+                      ),
                     ),
                   ),
                 ),

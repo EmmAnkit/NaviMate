@@ -1047,10 +1047,6 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'map',
       'de': '',
     },
-    'exaopnf6': {
-      'en': 'map',
-      'de': '',
-    },
   },
   // specialistsDescription
   {
@@ -1134,10 +1130,6 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'de': '',
     },
     '1ibe4a59': {
-      'en': 'map',
-      'de': '',
-    },
-    '8a1poz2r': {
       'en': 'map',
       'de': '',
     },

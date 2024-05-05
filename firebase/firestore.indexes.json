@@ -27,24 +27,6 @@
           "arrayConfig": "CONTAINS"
         }
       ]
-    },
-    {
-      "collectionGroup": "Specialists",
-      "queryScope": "COLLECTION",
-      "fields": [
-        {
-          "fieldPath": "Speciality",
-          "order": "ASCENDING"
-        },
-        {
-          "fieldPath": "Filter",
-          "arrayConfig": "CONTAINS"
-        },
-        {
-          "fieldPath": "netLike",
-          "order": "DESCENDING"
-        }
-      ]
     }
   ],
   "fieldOverrides": [

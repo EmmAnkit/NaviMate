@@ -62,7 +62,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                               alignment: const AlignmentDirectional(0.0, 1.0),
                               child: Padding(
                                 padding: const EdgeInsetsDirectional.fromSTEB(
-                                    0.0, 15.0, 0.0, 15.0),
+                                    0.0, 25.0, 0.0, 15.0),
                                 child: Container(
                                   width: 90.0,
                                   height: 90.0,
@@ -109,7 +109,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                             ),
                             Padding(
                               padding: const EdgeInsetsDirectional.fromSTEB(
-                                  0.0, 0.0, 0.0, 50.0),
+                                  0.0, 0.0, 0.0, 40.0),
                               child: AuthUserStreamWidget(
                                 builder: (context) => Text(
                                   currentUserDisplayName,
