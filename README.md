@@ -22,9 +22,9 @@ Problem 3: Academic and Career Services
 	Challenges related to academics, class expectations, and exams
  
 ## SDGs
-![Goal 3: Good Health and Wellbeing](assets/images/goal3health.png)
-![Goal 4: Quality Education](assets/images/goal4education.png)
-![Goal 8: Decent Work and Economic Growth](assets/images/economicgoal8.png)
+![Goal 3: Good Health and Wellbeing](assets/images/health.png)
+![Goal 4: Quality Education](assets/images/education.png)
+![Goal 8: Decent Work and Economic Growth](assets/images/economic.png)
 
 
 
