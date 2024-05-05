@@ -23,7 +23,9 @@ Problem 3: Academic and Career Services
  
 ## SDGs
 ![Goal 3: Good Health and Wellbeing](assets/images/health.png)
+
 ![Goal 4: Quality Education](assets/images/education.png)
+
 ![Goal 8: Decent Work and Economic Growth](assets/images/economic.png)
 
 
