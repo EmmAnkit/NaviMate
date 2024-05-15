@@ -45,7 +45,7 @@ Verify Page (pop up notification) ![screen](assets/images/7.png) | This picture 
 Main Page ![screen](assets/images/8.png)| Welcome to the Main Page! From here users can access everything in the app. Let’s start by going to the Health Services Page.
 Health Services Page![screen](assets/images/9.png)|From this page there are few options we can go to: Emergency Page, General Practitioners Page, Hospitals Page and Specialists Page. The Emergency Page is leading to the same page we had on the Sign In Page. As for others, they have almost similar structures. Let’s start from General Practitioners.
 General Practitioners Page![screen](assets/images/10.png)|We can already see the general practitioners names, addresses, phone numbers (clickable) and their locations - “map” (clickable). There are few features that users can use to optimize their search: map, search bar, filter and sorting.
-Map Page|After clicking on the upper-right button on the General Practitioners Page, opens up the Map Page which shows all the general practitioners locations.
+Map Page![screen](assets/images/3.png)|After clicking on the upper-right button on the General Practitioners Page, opens up the Map Page which shows all the general practitioners locations.
 General Practitioners Page (filter and sorting showing)![screen](assets/images/11.png)|This picture should be with 10
 General Practitioners Page (filter - english)![screen](assets/images/12.png)|Can be filtered by english speaking doctors
 General Practitioners Page (filter - english and tk)![screen](assets/images/13.png)|Or by insurance (TK, AOK)This picture should be with 13
