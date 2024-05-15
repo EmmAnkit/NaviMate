@@ -61,43 +61,24 @@ Write a Review Page|For the user to write a review, they need to click on write 
 Write a Review Page (written)|This picture should be with 24
 Doctor Page (new review)|This picture should be with 24
 Hospital Description Page |There is the same structure for the hospitals and specialist doctors too. Additionally, if it was provided, there is an email which users can use to email the facility. By clicking on the email, the user will be redirected to the mailing platform of their choice.
-- Hospital Description Page (email)
-This picture should be with 27
-- Specialists Page
-General Practitioners and Hospitals have similar starting page, however before users start looking for specialists, there is one more page. On this page, the user can choose which specialist they need and then comes the searching page.
-- Specialists Search Page
-This picture should be with 29
-- Specialist Description Page part 1
-Similar page structure as was for general practitioners and hospitals.
-- Specialist Description Page part 2
-This picture should be with 31
-- Insurance Page
-Users can see what insurances are available for them and read more by clicking on the logo. If the user wants to learn more about them there is a button provided for “Learn More” which opens the website of the insurance company.
-- TK Page
-This picture should be with 33
-- Main Page (others)
-Unfortunately, we were not able to provide more information about banks, housing, education, or local stores. However, we are working on it.
-- Reminders Page 
-We provide users with a reminders page which will help them remember about their appointments. To add a reminder, the user needs to click on the lower-right button.
-- Make Reminder Page
-This picture should be with 36
-- Make Reminder Page (date)
-Users need to choose the doctor, date and time.
-- Make Reminder Page (time)
-This picture should be with 38
-- Make Reminder Page (all)
-This picture should be with 38
-- Profile Page (initial)
-We provide a profile page where the user can edit their profile, read about us and terms and conditions or log out.
-- Edit profile (part one)
-Users can change their profile photo, name - surname and add their county and date of birth.
-- Edit profile (part two)
-This picture should be with 42
-- Profile Page (edited)
-This picture should be with 42
-- About Us
-Users can see information about team members and read Terms and Conditions.
-- Terms and Conditions
-This picture should be with 45
+Hospital Description Page (email)|This picture should be with 27
+Specialists Page|General Practitioners and Hospitals have similar starting page, however before users start looking for specialists, there is one more page. On this page, the user can choose which specialist they need and then comes the searching page.
+Specialists Search Page|This picture should be with 29
+Specialist Description Page part 1|Similar page structure as was for general practitioners and hospitals.
+Specialist Description Page part 2|This picture should be with 31
+Insurance Page|Users can see what insurances are available for them and read more by clicking on the logo. If the user wants to learn more about them there is a button provided for “Learn More” which opens the website of the insurance company.
+TK Page|This picture should be with 33
+Main Page (others)|Unfortunately, we were not able to provide more information about banks, housing, education, or local stores. However, we are working on it.
+Reminders Page |We provide users with a reminders page which will help them remember about their appointments. To add a reminder, the user needs to click on the lower-right button.
+Make Reminder Page|This picture should be with 36
+Make Reminder Page (date)|Users need to choose the doctor, date and time.
+Make Reminder Page (time)|This picture should be with 38
+Make Reminder Page (all)|This picture should be with 38
+Profile Page (initial)|We provide a profile page where the user can edit their profile, read about us and terms and conditions or log out.
+Edit profile (part one)|Users can change their profile photo, name - surname and add their county and date of birth.
+Edit profile (part two)|This picture should be with 42
+Profile Page (edited)|This picture should be with 42
+About Us|Users can see information about team members and read Terms and Conditions.
+Terms and Conditions|This picture should be with 45
 
 
