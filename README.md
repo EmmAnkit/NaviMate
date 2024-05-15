@@ -38,7 +38,7 @@ Pages | Description
 **Sign In Page** ![screen](assets/images/1.png) | The Sign In page enables users to log in with email and password.
 Forget Password ![screen](assets/images/2.png)| If the user does not remember their password, there is a Forget Password page which helps users to restore their password.
 Emergency Info Page![screen](assets/images/3.png)|If there is an emergency and the user is not able to log in, we are providing an emergency information button which will show the user emergency hotlines.
-Sign Up Page![screen](assets/images/4.png)   ![screen](assets/images/5.png)|To create an account, we provide a Sign Up page where users need to provide their name, surname, email address, password and select their university (at this moment, there can be selected only one university - Constructor University). 
+Sign Up Page![screen](assets/images/4.png) ![screen](assets/images/5.png)|To create an account, we provide a Sign Up page where users need to provide their name, surname, email address, password and select their university (at this moment, there can be selected only one university - Constructor University). 
 
 Verify Page ![screen](assets/images/6.png)| After clicking on a “create account” on the Sign Up page, the user will be sent a verification email and after they verified it they can move on to the next page.
 Verify Page (pop up notification) ![screen](assets/images/7.png) | This picture should be with 6
