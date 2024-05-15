@@ -34,7 +34,7 @@ Problem 3: Academic and Career Services
 
 Pages | Description
 ----|---
-Sign In Page | The Sign In page enables users to log in with email and password.
+Sign In Page ![screen](assets/images/44.png)| The Sign In page enables users to log in with email and password.
 Forget Password | If the user does not remember their password, there is a Forget Password page which helps users to restore their password.
 Emergency Info Page|If there is an emergency and the user is not able to log in, we are providing an emergency information button which will show the user emergency hotlines.
 Sign Up Page|To create an account, we provide a Sign Up page where users need to provide their name, surname, email address, password and select their university (at this moment, there can be selected only one university - Constructor University). 
