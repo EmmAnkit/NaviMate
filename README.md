@@ -41,15 +41,15 @@ Emergency Info Page![screen](assets/images/3.png)|If there is an emergency and t
 Sign Up Page![screen](assets/images/4.png) |To create an account, we provide a Sign Up page where users need to provide their name, surname, email address, password and select their university (at this moment, there can be selected only one university - Constructor University). 
 ![screen](assets/images/5.png) | 
 Verify Page ![screen](assets/images/6.png)| After clicking on a “create account” on the Sign Up page, the user will be sent a verification email and after they verified it they can move on to the next page.
-Verify Page (pop up notification) ![screen](assets/images/7.png) | This picture should be with 6
+Verify Page (pop up notification) ![screen](assets/images/7.png) | 
 Main Page ![screen](assets/images/8.png)| Welcome to the Main Page! From here users can access everything in the app. Let’s start by going to the Health Services Page.
 Health Services Page![screen](assets/images/9.png)|From this page there are few options we can go to: Emergency Page, General Practitioners Page, Hospitals Page and Specialists Page. The Emergency Page is leading to the same page we had on the Sign In Page. As for others, they have almost similar structures. Let’s start from General Practitioners.
 General Practitioners Page![screen](assets/images/10.png)|We can already see the general practitioners names, addresses, phone numbers (clickable) and their locations - “map” (clickable). There are few features that users can use to optimize their search: map, search bar, filter and sorting.
 Map Page![screen](assets/images/11.png)|After clicking on the upper-right button on the General Practitioners Page, opens up the Map Page which shows all the general practitioners locations.
-General Practitioners Page (filter and sorting showing)![screen](assets/images/10.png)|This picture should be with 10
-General Practitioners Page (filter - english)![screen](assets/images/11.png)|Can be filtered by english speaking doctors
-General Practitioners Page (filter - english and tk)![screen](assets/images/12.png)|Or by insurance (TK, AOK)This picture should be with 13
-General Practitioners Page (sort - likes)![screen](assets/images/13.png)|Doctors can be sorted by most liked to list liked
+General Practitioners Page (filter and sorting showing)![screen](assets/images/12.png)|This picture should be with 10
+General Practitioners Page (filter - english)![screen](assets/images/13.png)|Can be filtered by english speaking doctors
+General Practitioners Page (filter - english and tk)![screen](assets/images/14.png)|Or by insurance (TK, AOK)This picture should be with 13
+General Practitioners Page (sort - likes)![screen](assets/images/15.png)|Doctors can be sorted by most liked to list liked
 General Practitioners Page (search)![screen](assets/images/14.png)|Users can search doctors too.This picture should be with 15
 Doctor Page![screen](assets/images/15.png)|After finding their preferable doctors, users can learn more on this page which provides multiple great features.
 Doctor Page (number)![screen](assets/images/16.png)|On the Doctor's Page we can click on the number which will transfer us to make a call or click on “More information” which will open the website of the doctor. 
