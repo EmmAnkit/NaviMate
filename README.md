@@ -43,44 +43,24 @@ Verify Page | After clicking on a “create account” on the Sign Up page, the 
 Verify Page (pop up notification) | This picture should be with 6
 Main Page | Welcome to the Main Page! From here users can access everything in the app. Let’s start by going to the Health Services Page.
 Health Services Page|From this page there are few options we can go to: Emergency Page, General Practitioners Page, Hospitals Page and Specialists Page. The Emergency Page is leading to the same page we had on the Sign In Page. As for others, they have almost similar structures. Let’s start from General Practitioners.
-- General Practitioners Page
-We can already see the general practitioners names, addresses, phone numbers (clickable) and their locations - “map” (clickable). There are few features that users can use to optimize their search: map, search bar, filter and sorting.
-- Map Page
-After clicking on the upper-right button on the General Practitioners Page, opens up the Map Page which shows all the general practitioners locations.
-- General Practitioners Page (filter and sorting showing)
-This picture should be with 10
-- General Practitioners Page (filter - english)
-Can be filtered by english speaking doctors
-- General Practitioners Page (filter - english and tk)
-Or by insurance (TK, AOK)
-This picture should be with 13
-- General Practitioners Page (sort - likes)
-Doctors can be sorted by most liked to list liked
-- General Practitioners Page (search)
-Users can search doctors too.
-This picture should be with 15
-- Doctor Page
-After finding their preferable doctors, users can learn more on this page which provides multiple great features.
-- Doctor Page (number)
-On the Doctor's Page we can click on the number which will transfer us to make a call or click on “More information” which will open the website of the doctor. 
-- Doctor Page (website)
-This picture should be with 18
-- Doctor Page (map)
-If the user scrolls down a bit, we will be able to see a map where the doctor is located. Also, the red pin is clickable which opens up location in google maps application.
-- Doctor Page (actual map)
-This picture should be with 20
-- Doctor Page (comment)
-Users can also like and leave comments about the doctor.
-- Doctor Page (like)
-This picture should be with 22
-- Write a Review Page
-For the user to write a review, they need to click on write a review on Doctor’s Page and Write a Review page will open up. Users can use anonymous to publish their review anonymously. Write their review in the field and click on the “Publish Review” button.
-- Write a Review Page (written)
-This picture should be with 24
-- Doctor Page (new review)
-This picture should be with 24
-- Hospital Description Page 
-There is the same structure for the hospitals and specialist doctors too. Additionally, if it was provided, there is an email which users can use to email the facility. By clicking on the email, the user will be redirected to the mailing platform of their choice.
+General Practitioners Page|We can already see the general practitioners names, addresses, phone numbers (clickable) and their locations - “map” (clickable). There are few features that users can use to optimize their search: map, search bar, filter and sorting.
+Map Page|After clicking on the upper-right button on the General Practitioners Page, opens up the Map Page which shows all the general practitioners locations.
+General Practitioners Page (filter and sorting showing)|This picture should be with 10
+General Practitioners Page (filter - english)|Can be filtered by english speaking doctors
+General Practitioners Page (filter - english and tk)|Or by insurance (TK, AOK)This picture should be with 13
+General Practitioners Page (sort - likes)|Doctors can be sorted by most liked to list liked
+General Practitioners Page (search)|Users can search doctors too.This picture should be with 15
+Doctor Page|After finding their preferable doctors, users can learn more on this page which provides multiple great features.
+Doctor Page (number)|On the Doctor's Page we can click on the number which will transfer us to make a call or click on “More information” which will open the website of the doctor. 
+Doctor Page (website)|This picture should be with 18
+Doctor Page (map)|If the user scrolls down a bit, we will be able to see a map where the doctor is located. Also, the red pin is clickable which opens up location in google maps application.
+Doctor Page (actual map)|This picture should be with 20
+Doctor Page (comment)|Users can also like and leave comments about the doctor.
+Doctor Page (like)|This picture should be with 22
+Write a Review Page|For the user to write a review, they need to click on write a review on Doctor’s Page and Write a Review page will open up. Users can use anonymous to publish their review anonymously. Write their review in the field and click on the “Publish Review” button.
+Write a Review Page (written)|This picture should be with 24
+Doctor Page (new review)|This picture should be with 24
+Hospital Description Page |There is the same structure for the hospitals and specialist doctors too. Additionally, if it was provided, there is an email which users can use to email the facility. By clicking on the email, the user will be redirected to the mailing platform of their choice.
 - Hospital Description Page (email)
 This picture should be with 27
 - Specialists Page
