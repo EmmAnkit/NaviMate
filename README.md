@@ -32,24 +32,17 @@ Problem 3: Academic and Career Services
 
 ## App Demo
 
-Sign In Page | The Sign In page enables users to log in with email and password.
+Pages | Description
 ---|---
+Sign In Page | The Sign In page enables users to log in with email and password.
 Forget Password | If the user does not remember their password, there is a Forget Password page which helps users to restore their password.
---- | ---
-- Emergency Info Page
-If there is an emergency and the user is not able to log in, we are providing an emergency information button which will show the user emergency hotlines.
-- Sign Up Page
-To create an account, we provide a Sign Up page where users need to provide their name, surname, email address, password and select their university (at this moment, there can be selected only one university - Constructor University). 
-- Sign Up Page (filled in) 
-This picture should be with 4
-- Verify Page
-After clicking on a “create account” on the Sign Up page, the user will be sent a verification email and after they verified it they can move on to the next page.
-- Verify Page (pop up notification)
-This picture should be with 6
-- Main Page
-Welcome to the Main Page! From here users can access everything in the app. Let’s start by going to the Health Services Page.
-- Health Services Page
-From this page there are few options we can go to: Emergency Page, General Practitioners Page, Hospitals Page and Specialists Page. The Emergency Page is leading to the same page we had on the Sign In Page. As for others, they have almost similar structures. Let’s start from General Practitioners.
+Emergency Info Page|If there is an emergency and the user is not able to log in, we are providing an emergency information button which will show the user emergency hotlines.
+Sign Up Page|To create an account, we provide a Sign Up page where users need to provide their name, surname, email address, password and select their university (at this moment, there can be selected only one university - Constructor University). 
+Sign Up Page (filled in) | This picture should be with 4
+Verify Page | After clicking on a “create account” on the Sign Up page, the user will be sent a verification email and after they verified it they can move on to the next page.
+Verify Page (pop up notification) | This picture should be with 6
+Main Page | Welcome to the Main Page! From here users can access everything in the app. Let’s start by going to the Health Services Page.
+Health Services Page|From this page there are few options we can go to: Emergency Page, General Practitioners Page, Hospitals Page and Specialists Page. The Emergency Page is leading to the same page we had on the Sign In Page. As for others, they have almost similar structures. Let’s start from General Practitioners.
 - General Practitioners Page
 We can already see the general practitioners names, addresses, phone numbers (clickable) and their locations - “map” (clickable). There are few features that users can use to optimize their search: map, search bar, filter and sorting.
 - Map Page
